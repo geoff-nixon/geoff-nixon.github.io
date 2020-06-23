@@ -6,9 +6,11 @@ layout: default
 
 `keybase: `[`g30xFF`](https://keybase.io/g30xFF)  
 
+---
+
+**`text:    `**[`+1-707-596-0297`](sms:+17075960297)  
 `mail:    `[`geoff＠geoffnixon·net`](mailto:type-that-out,do-not-copy-paste)  
 `pstn:    `[`+1-707-596-0297`](tel:+17075960297)  
-**`text:    `**[`+1-707-596-0297`](sms:+17075960297)  
 
 ---
 
@@ -27,3 +29,5 @@ layout: default
 `résumé:  todo`  
 `social:  todo`  
 `theatre: todo`  
+
+---
