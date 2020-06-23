@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/g30xff
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://geoffnixon.net
+  * I am g30xff (https://keybase.io/g30xff) on keybase.
+  * I have a public key ASAL0UWfTIaXcljxGh0oBbPaZXQX43YRZKhgnnY3FR9bBwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200bd1459f4c86977258f11a1d2805b3da657417e3761164a8609e7637151f5b070a",
+      "host": "keybase.io",
+      "kid": "01200bd1459f4c86977258f11a1d2805b3da657417e3761164a8609e7637151f5b070a",
+      "uid": "e5194a78290dc3d08ce4d7cc4385bc19",
+      "username": "g30xff"
+    },
+    "merkle_root": {
+      "ctime": 1592867336,
+      "hash": "3bed2f5619c5f3ca6d4301da6aa6795b9c57a936656cd838cf5971e95eaa333238466a0a8db6cc35292a621b2f8d818765cadccece66905fa7dc7b8b43e01199",
+      "hash_meta": "a4cf1d844b230b5d720e89b700da8c2bf060f4ca6964d136af52e598a2aebdf0",
+      "seqno": 16747557
+    },
+    "service": {
+      "entropy": "lbIHXCed6Nv7fk6XCcxJtaln",
+      "hostname": "geoffnixon.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1592867399,
+  "expire_in": 504576000,
+  "prev": "89186f9afd1747bbe88612c7547cd31a93f4562637cf45a4014f06ed06c2cf95",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgC9FFn0yGl3JY8RodKAWz2mV0F+N2EWSoYJ52NxUfWwcKp3BheWxvYWTESpcCDMQgiRhvmv0XR7vohhLHVHzTGpP0ViY3z0WkAU8G7QbCz5XEIHYSzd06E0z17hzYyHp9f4XWvsg1ZSgCPbV/oBd/aAkxAgHCo3NpZ8RAW54uD5KhycyFI4suk7568daznLr8/fZ3ktjklIhwGenyWVJh/GZfPd6Yer0lrtFF41QVCTFBhI9lLkG65pcuD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAwzQsMq2qCuTkYTfkLqoT/Tk4wvKRUYRiLij4LEhpmQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/g30xff
+
+==================================================================
