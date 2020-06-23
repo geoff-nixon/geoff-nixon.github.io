@@ -22,10 +22,8 @@ layout: default
 
 ---
 
-```
-bio:     todo 
-blog:    todo 
-résumé:  todo 
-social:  todo 
-theatre: todo 
-```  
+`bio:     todo`  
+`blog:    todo`  
+`résumé:  todo`  
+`social:  todo`  
+`theatre: todo`  
