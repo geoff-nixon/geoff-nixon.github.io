@@ -12,7 +12,7 @@ layout: default
 
 ---
 
-`github:                  `[`geoff-nixon`](https://github.com/geoff-nixon)  
+`github.com:              `[`geoff-nixon`](https://github.com/geoff-nixon)  
 `stackoverflow.com:       `[`geoff-nixon`](https://stackoverflow.com/users/2351351/geoff-nixon)  
 `apple.stackexchange.com: `[`geoff-nixon`](https://apple.stackexchange.com/users/65379/geoff-nixon)
 
