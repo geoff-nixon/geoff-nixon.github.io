@@ -6,7 +6,7 @@ layout: default
 
 `keybase: `[`g30xFF`](https://keybase.io/g30xFF)  
 
-`mail:    `[`geoff@geoffnixon.net`](mailto:type-that-out---copy-paste-wont-work-because-thats-not-an-@)  
+`mail:    `[`geoff﹫geoffnixon․net`](mailto:type-that-out,do-not-copy-paste)  
 `pstn:    `[`+1-707-596-0297`](tel:+17075960297)  
 **`text:    `**[`+1-707-596-0297`](sms:+17075960297)  
 
