@@ -1,2 +1,10 @@
-theme: 
+title: geoffnixon.net
+logo: 
+description: You have found Geoff Nixon.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
 include: [".well-known"]
+exclude: [ "README.md", "Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
+plugins:
+  - "jekyll-github-metadata"
