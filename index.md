@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## `Hi! I'm Geoff.`
 
 [`email:`   `geoff@geoffnixon·net`](mailto:type_it_out@domain.tld)  
