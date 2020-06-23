@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## `Hi! I'm Geoff.`
+## `Hi! I'm Geoff Nixon.`
 
-[`keybase:` `g30xFF`](https://keybase.io/g30xFF)  
-[`mail:`    `geoff@geoffnixon·net`](mailto:type_it_out@domain.tld)  
-[`pstn:`    `+1-707-596-0297`](tel:+17075960297) [(text)](sms:+17075960297)  
+`keybase:`[` g30xFF`](https://keybase.io/g30xFF)  
+`mail:`[`    geoff@geoffnixon·net`](mailto:type_it_out@domain.tld)  
+`pstn:`[`    +1-707-596-0297`](tel:+17075960297) **[`(text)`](sms:+17075960297)** 
 
 ---
 
@@ -20,8 +20,8 @@ layout: default
 
 ---
 
-[`bio:     todo`]  
-[`résumé:  todo`]  
-[`social:  todo`]  
-[`blog:    todo`]  
-[`theatre: todo`]  
+[`bio:     todo`]
+[`blog:    todo`]
+[`résumé:  todo`]
+[`social:  todo`]
+[`theatre: todo`]
