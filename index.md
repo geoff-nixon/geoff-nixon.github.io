@@ -4,10 +4,10 @@ layout: default
 
 ## `Hi! I'm Geoff Nixon.`
 
-`keybase:` ` `[`g30xFF`](https://keybase.io/g30xFF)  
+`keybase: `[`g30xFF`](https://keybase.io/g30xFF)  
 
-`mail:` `    `[`geoff@geoffnixon·net`](mailto:type_it_out@domain.tld)  
-`pstn:` `    `[`+1-707-596-0297`](tel:+17075960297) **[`(text)`](sms:+17075960297)** 
+`mail:    `[`geoff@geoffnixon·net`](mailto:type_it_out@domain.tld)  
+`pstn:    `[`+1-707-596-0297`](tel:+17075960297) **[`message`](sms:+17075960297)** 
 
 ---
 
