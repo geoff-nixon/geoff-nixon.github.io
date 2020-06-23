@@ -6,14 +6,15 @@ layout: default
 
 `keybase: `[`g30xFF`](https://keybase.io/g30xFF)  
 
-`mail:    `[`geoff@geoffnixon·net`](mailto:type_it_out@domain.tld)  
+`mail:    `[`geoff@geoffnixon.net`](mailto:type-that-out---copy-paste-wont-work-because-thats-not-an-@)  
 `pstn:    `[`+1-707-596-0297`](tel:+17075960297) **[`message`](sms:+17075960297)** 
+**`text:    `**[`+1-707-596-0297`](sms:+17075960297)
 
 ---
 
-[`github:`                  `geoff-nixon`](https://github.com/geoff-nixon)  
-[`stackoverflow.com:`       `geoff-nixon`](https://stackoverflow.com/users/2351351/geoff-nixon)  
-[`apple.stackexchange.com:` `geoff-nixon`](https://apple.stackexchange.com/users/65379/geoff-nixon)
+`github:                  `[`geoff-nixon`](https://github.com/geoff-nixon)  
+`stackoverflow.com:       `[`geoff-nixon`](https://stackoverflow.com/users/2351351/geoff-nixon)  
+`apple.stackexchange.com: `[`geoff-nixon`](https://apple.stackexchange.com/users/65379/geoff-nixon)
 
 ---
 
@@ -21,8 +22,8 @@ layout: default
 
 ---
 
-[`bio:     todo`]
-[`blog:    todo`]
-[`résumé:  todo`]
-[`social:  todo`]
-[`theatre: todo`]
+[`bio:     todo`]  
+[`blog:    todo`]  
+[`résumé:  todo`]  
+[`social:  todo`]  
+[`theatre: todo`]  
