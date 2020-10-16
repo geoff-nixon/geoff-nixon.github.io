@@ -21,7 +21,7 @@ layout: default
 ---
 
 [`recuiters:` **`read this before you contact me`**](https://www.quora.com/Has-anyone-ever-turned-down-a-job-offer-from-Google-If-so-why/answer/Geoff-Nixon-3)
-
+<!-- 
 ---
 
 `bio:     todo`  
@@ -29,5 +29,5 @@ layout: default
 `résumé:  todo`  
 `social:  todo`  
 `theatre: todo`  
-
+>
 ---
